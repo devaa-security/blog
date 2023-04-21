@@ -2,7 +2,7 @@ const projectsData = [
   {
     title: 'Manifest Scanner',
     description: `A simple CLI tool to scan your Android app manifest file and check for vulnerable configurations.`,
-    imgSrc: '/static/images/google.png',
+    imgSrc: '/static/images/manifest-scanner.jpg',
     href: 'https://www.npmjs.com/package/manifest-scanner',
   },
   {
