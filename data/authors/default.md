@@ -1,16 +1,12 @@
 ---
-name: Tails Azimuth
+name: Shiva
 avatar: /static/images/avatar.png
-occupation: Professor of Atmospheric Science
-company: Stanford University
-email: address@yoursite.com
-twitter: https://twitter.com/Twitter
-linkedin: https://www.linkedin.com
-github: https://github.com
+occupation: Founder at DEVAA Security
+company: DEVAA Security
+email: s.shivasurya@gmail.com
+github: https://github.com/s5dev
 ---
 
-Tails Azimuth is a professor of atmospheric sciences at the Stanford AI Lab. His research interests includes complexity modelling of tailwinds, headwinds and crosswinds.
+Shiva is one of the co-founder of Devaa Security, a startup that provides automated security testing and verification for Mobile applications. He is also a Master of Mathematics graduate from the University of Waterloo, where he developed the Detecting Exploitable Vulnerabilities in Android Application framework (DEVAA) as his thesis project.
 
-He leads the clean energy group which develops 3D air pollution-climate models, writes differential equation solvers, and manufactures titanium plated air ballons. In his free time he bakes raspberry pi.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+His mission is to secure mobile applications and democratize mobile app security education for developers. He has published several papers and given talks on Android app security and DEVAA.
